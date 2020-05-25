@@ -1,2 +1,2 @@
 # python
-python class asssignments 
+python class assignments completed when i attended the golang programming in ucsc extension santa clara
